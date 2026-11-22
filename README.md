@@ -93,8 +93,4 @@
 <img src="https://img.shields.io/badge/guns.lol-kopriuc-ff00cc?style=for-the-badge&logo=linktree&logoColor=white" />
 </a>
 
-<br><br>
-
-<i>⭐ "Code. Learn. Improve. Repeat." ⭐</i>
-
 </div>
