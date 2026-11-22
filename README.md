@@ -83,21 +83,15 @@
 
 <div align="center">
 
-<h3>🐍 Watch My Contributions Come Alive</h3>
-
-<img src="https://raw.githubusercontent.com/GasperKoprivc/GasperKoprivc/output/github-snake-dark.svg" width="100%" />
-
-<br><br>
-
 <h3>🌐 Connect With Me</h3>
 
 <a href="https://github.com/GasperKoprivc">
 <img src="https://img.shields.io/badge/GitHub-GasperKoprivc-0d1117?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=GasperKoprivc&label=Profile+Views&color=39d353&style=flat-square" />
+<a href="https://guns.lol/kopriuc">
+<img src="https://img.shields.io/badge/guns.lol-kopriuc-ff00cc?style=for-the-badge&logo=linktree&logoColor=white" />
+</a>
 
 <br><br>
 
